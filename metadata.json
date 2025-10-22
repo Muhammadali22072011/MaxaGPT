@@ -1,0 +1,5 @@
+{
+  "name": "MaxaGPT",
+  "description": "An all-in-one application powered by Google's Gemini API. It features an intelligent chatbot for conversational AI, a creative image generator, and an advanced text-to-speech engine.",
+  "requestFramePermissions": []
+}

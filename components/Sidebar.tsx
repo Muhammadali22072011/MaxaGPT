@@ -1,0 +1,1 @@
+full contents of components/Sidebar.tsx
